@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 dev branch add this mesg.
 master say A & B are right after merge.
+dev branch add mesg again.
